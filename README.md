@@ -1,2 +1,3 @@
-# Nova Jornada2
- Primeiro versionamento 
+# Nova Jornada2.0
+Primeiro versionamento 
+Primeira tentativa de versionamento
